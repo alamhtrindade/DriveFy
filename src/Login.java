@@ -14,7 +14,7 @@ import javax.swing.JOptionPane;
  * @author alamtrindade
  */
 public class Login extends javax.swing.JFrame {
-//Senha ADM
+
 
     Usuario usuario;
     String Adm = "admin";
